@@ -13,7 +13,7 @@ const cors = require('cors');
 app.use(express.json());  // To parse JSON request body
 app.use(cookieParser());
 app.use(cors({
-    origin: "https://devtinder-wrzy.onrender.com", // React frontend
+    origin: "https://devtinder-0jq8.onrender.com", // React frontend
     credentials: true
   }));
   
