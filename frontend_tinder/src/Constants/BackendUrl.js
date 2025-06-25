@@ -1,2 +1,2 @@
-const BackendUrl = "http://localhost:5000";
+const BackendUrl = "https://devtinder-jyuf.onrender.com";
 export default BackendUrl;
